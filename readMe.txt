@@ -49,5 +49,3 @@ taskManager.h
 taskManager.cpp
 projectManager.h
 projectManager.cpp
-uiManager.h
-uiManager.cpp
